@@ -1,3 +1,5 @@
+#code to crack 4 letter passwords using python
+
 from string import ascii_letters
 
 for i in ascii_letters:
